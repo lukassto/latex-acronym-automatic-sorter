@@ -1,0 +1,14 @@
+{
+    "abbreviation_ecoj": {
+        "symbol": "ecoj",
+        "shortform": "ECoJ",
+        "longform": "European Court of Justice",
+        "length": 4
+    },
+    "abbreviation_eu": {
+        "symbol": "eu",
+        "shortform": "EU",
+        "longform": "European Union",
+        "length": 2
+    }
+}
